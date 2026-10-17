@@ -1,14 +1,5 @@
 # Gustavo Bazan🧟
 
-**Dev Back-End**
-
-Sempre gostei de aprender mais sobre computadores e, agora, me vejo estudando o que acontece nos bastidores. Meu objetivo não é apenas entender, mas também criar o que quiser. Isso é o que me dá paixão por essa área. Cada conhecimento que adquiro, desde um simples HTML até Java, me faz ter certeza de que escolhi o caminho e área certa e desperta cada vez mais minha curiosidade. Aqui esta o meu [Linkedin](https://www.linkedin.com/in/gustavobazandesouza/)
-
----
-
-## 💻 Atualmente estudando
-
-
 <img
     align="left"
     alt="HTML"
